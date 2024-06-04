@@ -6,11 +6,13 @@ How to use:
 
 1. Download the repo.
 
-2. Chmod +x glitchnet.sh
+2. Change permissions with 'chmod +x glitchnet.sh'
 
-3. sudo ./glitchnet.sh 
+3. Then ensure your interface is ready with ifconfig. If it's not visible run sudo ifconfig wlan0 up. 
 
-4. In burp suite setup your invisible proxy to intercept the traffic that has been redirected.
+4. Now just run the script with 'sudo ./glitchnet.sh' 
+
+4. In BurpSuite setup your invisible proxy to intercept the traffic that has been redirected.
    
 6. On the mobile device search for the Wi-Fi SSID "GlitchNet". The first password will be Test@123. Please change this when you run it.
 
