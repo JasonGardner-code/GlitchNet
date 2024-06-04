@@ -45,7 +45,7 @@ EOF
 display_loading_screen
 
 # Set up variables
-INTERFACE="wlan1"
+INTERFACE="wlan0"
 AP_SSID="GlitchNet"
 AP_PASSPHRASE="Test@123"
 AP_CHANNEL="6"
