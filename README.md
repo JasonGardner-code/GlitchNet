@@ -31,7 +31,7 @@ Multipane View:
 
 
 PoC for MiTMn 
-Here for a simple proof of concept using BurpSuite's match and replace rules on the response body it is possible to inject an alert. In the blogpost I also show how you can inject other payloads to capture additional device information for testing purposes.
+Here for a simple proof of concept using BurpSuite's match and replace rules on the response body it is possible to inject an alert.
 
 ![gs2](https://github.com/JasonGardner-code/GlitchNet/assets/51766718/b939f9cd-83be-40a9-9bc4-221652ca4f16)
 
