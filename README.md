@@ -30,10 +30,17 @@ Multipane View:
 ![multiplePaneView](https://github.com/JasonGardner-code/GlitchNet/assets/51766718/1640129a-0a93-45ba-9ea4-505e44f53d9f)
 
 
-PoC for MiTMn 
+PoC for MiTM attack:
 Here for a simple proof of concept using BurpSuite's match and replace rules on the response body it is possible to inject an alert.
 
-![gs2](https://github.com/JasonGardner-code/GlitchNet/assets/51766718/b939f9cd-83be-40a9-9bc4-221652ca4f16)
+Without the injection:
+
+![glitchnetload1](https://github.com/JasonGardner-code/GlitchNet/assets/51766718/420c973c-ed6c-42eb-ada5-213c10c92c5c)
+
+With the injection:
+
+![glitchnetload2](https://github.com/JasonGardner-code/GlitchNet/assets/51766718/12c85e2f-f4e8-4a75-8af1-993ab12d8f63)
+
 
 Show your support:
 
