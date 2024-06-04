@@ -10,13 +10,13 @@ How to use:
 
 3. sudo ./glitchnet.sh 
 
-4. In burp suite setup the proxying rules (see the README)
+4. In burp suite setup your invisible proxy to intercept the traffic that has been redirected.
+   
+6. On the mobile device search for the Wi-Fi SSID "GlitchNet". The first password will be Test@123. Please change this when you run it.
 
-5. On the mobile device search for the Wi-Fi SSID "GlitchNet". The first password will be Test@123. Please change this when you run it.
+7. Connect to the hotspot with your mobile device and browse the internet or use an app.
 
-6. Connect and browse the internet.
-
-7. Monitor intercepted traffic in Burp Suite.
+8. You can then see the traffic, monitor it, and intercepted as well as modify it in Burp Suite.
 
 ![glitchnet](https://github.com/JasonGardner-code/GlitchNet/assets/51766718/3793d97d-1dfa-46d6-bfbb-c68c737357f3)
 
